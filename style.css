@@ -62,6 +62,11 @@ body{
     font-size: 20px;
     font-weight: 300px;
     cursor: pointer;
+    transition: all ease-in 0.5s;
+}
+.data .left button:hover{
+    background-color:goldenrod;
+    color:white;
 }
 .data .right{
     width:50%;
